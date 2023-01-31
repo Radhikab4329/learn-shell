@@ -6,3 +6,4 @@
 # Function Declare
 example() {
   echo I am a example function
+}
