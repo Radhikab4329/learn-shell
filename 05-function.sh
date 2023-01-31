@@ -7,3 +7,6 @@
 example() {
   echo I am a example function
 }
+
+## Call a function
+example
